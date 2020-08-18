@@ -9,7 +9,7 @@ lettre = lireLettre("1000001")
 print(lettre)
 
 #OUTPUT
-# Un Million Un
+Un Million Un
 
 # UTILISATION EN
 
@@ -19,4 +19,4 @@ lettre = lireLettre("1010001")
 print(lettre)
 
 #OUTPUT
-# One Million Ten Thousand One
+One Million Ten Thousand One
