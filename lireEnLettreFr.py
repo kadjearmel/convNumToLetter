@@ -112,13 +112,14 @@ def lectureEnLettre(num, tour):
 """
 
 # TEST 1
-num = str()
-while 1:
-	num = raw_input("Entrez un nombre (Tapez 'Q' pour quitter) : ")
-	if num == "Q" or num.lower() == "q":
-		print ("Fin du Test")
-		break
-	print (num + ' - '+ lireLettre(num))
+#num = str()
+#while 1:
+#	num = raw_input("Entrez un nombre (Tapez 'Q' pour quitter) : ")
+#	if num == "Q" or num.lower() == "q":
+#		print ("Fin du Test")
+#		break
+#	print (num + ' - '+ lireLettre(num))
+
 
 # TEST 2
 
